@@ -32,6 +32,7 @@ Planned first steps:
 |---|---|---|
 | [.github](https://github.com/Chalumna/.github) | Organization's default community health files, templates, and global workflows | WIP |
 | [ReID](https://github.com/Chalumna/ReID) | Individual re-identification of coelacanths from spot patterns | WIP |
+| [CoelacanthDataset](https://github.com/Chalumna/CoelacanthDataset) | An openly documented image collection for coelacanth research and conservation. | WIP |
 
 Other machine learning projects related to coelacanths are welcome in this organisation.
 
