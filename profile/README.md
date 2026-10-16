@@ -31,7 +31,6 @@ Planned first steps:
 | Project | Description | Status |
 |---|---|---|
 | [.github](https://github.com/Chalumna/.github) | Organization's default community health files, templates, and global workflows | WIP |
-
 | *(first repository coming soon)* | Individual re-identification of coelacanths from spot patterns | Planning |
 
 Other machine learning projects related to coelacanths are welcome in this organisation.
