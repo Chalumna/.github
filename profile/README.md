@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chalumna/.github/main/profile/logo.png" alt="Chalumna logo" width="220">
+  <img src="https://github.com/Chalumna/.github/blob/main/profile/logo.png" alt="Chalumna logo" width="220">
 </p>
 
 # Chalumna
