@@ -30,6 +30,8 @@ Planned first steps:
 
 | Project | Description | Status |
 |---|---|---|
+| [.github](https://github.com/Chalumna/.github) | Organization's default community health files, templates, and global workflows | WIP |
+
 | *(first repository coming soon)* | Individual re-identification of coelacanths from spot patterns | Planning |
 
 Other machine learning projects related to coelacanths are welcome in this organisation.
@@ -58,3 +60,7 @@ maelig.pesco@gmail.com
 
 - Thornycroft R.E. & Booth A.J. (2012). *Computer-aided identification of coelacanths, Latimeria chalumnae, using scale patterns*. Marine Biology Research, 8: 300-306. https://doi.org/10.1080/17451000.2011.628679
 - Nulens R., Scott L. & Herbin M. (2011). *An updated inventory of all known specimens of the coelacanth, Latimeria spp.* Smithiana Special Publication 3. South African Institute for Aquatic Biodiversity.
+
+## Logo
+
+The Chalumna logo was generated with ChatGPT and is released under CC0 1.0: no rights reserved, reuse it freely. Code in this organisation’s repositories is licensed separately (see the LICENSE file of each repository).
