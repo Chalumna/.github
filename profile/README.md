@@ -1,7 +1,3 @@
- <p align="center">
-  <img src="https://github.com/Chalumna/.github/blob/main/profile/logo.png" alt="Chalumna logo" width="220">
-</p>
-
 # Chalumna
 
 **Open-source machine learning for coelacanth research and conservation.**
